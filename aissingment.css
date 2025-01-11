@@ -1,0 +1,544 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+
+    background-color: #f5f5f5;
+    
+    font-family: "Kanit", serif;
+   
+}
+
+nav{
+
+
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.logo{
+
+    
+        font-family: "Kanit", serif;
+        font-weight: 600;
+        font-style: normal;
+        margin: 20px;
+        margin-left: 160px;
+        font-size: 32px;
+      
+}
+.btn1{
+
+    font-family: "Kanit", serif;
+    font-weight: 400;
+    font-style: normal; 
+    margin: 20px;
+    color: #006A50;
+    margin-right: 160px;
+border: 1px solid #006A50;
+    border-radius: 5px;
+    width: 116px;
+  
+    
+font-size: 18px;
+}
+.banner{
+
+    margin: auto;
+
+    width: 1038px;
+    height: 480px;
+
+    background-color: #c6e4d6;
+
+    border-radius: 10px;
+    display: flex;
+
+    justify-content: space-between;
+    
+
+}
+.left{
+
+
+    padding-top: 95px;
+
+    padding-left: 60px;
+}
+
+.banner p{
+    font-family: "Kanit", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #0E0E0E;
+
+}
+
+.banner h1{
+
+    font-family: "Kanit", serif;
+    font-weight: 700;
+    font-style: normal;
+
+    font-size: 36px;
+}
+
+.banner button{
+
+    font-family: "Kanit", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    background-color: #006A50;
+    color: white;
+    padding: 10px;
+
+    height: 56px;
+    width: 270px;
+
+    border-radius: 7px;
+border: none;
+}
+
+.right img{
+
+margin-top: 55px;
+    width:454.03px ;
+
+    height:350px;
+
+    margin-right: 40px;
+}
+
+.pillars{
+
+    margin: 160px;
+
+    margin-top: 80px;
+
+}
+
+.head0{
+
+    font-family: "Kanit", serif;
+    font-weight: 500;
+    font-style: normal;
+
+    font-size: 18 px;
+
+    color: #4b4444;
+
+}
+
+.pillars p{
+
+    font-family: "Kanit", serif;
+    font-weight: 300;
+    font-style: normal;
+
+    font-size: 16 px;
+
+    color: #b3aeae;
+
+}
+.pillar1{
+
+
+    width: 302px;
+
+    height: 244px;
+
+    background-color: #ffffff;
+
+    border-radius: 10px;
+
+    padding: 20px;
+}
+.allpillars{
+
+    display: flex;
+
+    gap: 15px;
+}
+
+.vision1{
+
+
+    width: 380px;
+
+    height: 
+    250px;
+
+    background-color: #d5e1f5;
+
+    padding: 20px;
+
+    border-radius: 10px;
+    border: none;
+}
+
+.vision{
+
+    display: flex;
+    gap: 10px;
+
+    height: auto;
+}
+
+.vision1 button{
+
+width: 122px;
+
+height: 41px;
+font-family: "Kanit", serif;
+font-weight: 400;
+font-style: normal;
+
+font-size: 16 px;
+
+background-color: #5490F5;
+
+color: white;
+
+border-radius: 5px;
+
+border: none;
+
+
+}
+.head1{
+
+  
+    font-family: "Kanit", serif;
+    font-weight: 500;
+    font-style: normal;
+    
+    font-size: 20px;
+    
+  
+    
+    color: rgb(0, 0, 0);
+    
+
+
+    
+    
+    }
+
+    .opinion{
+
+
+        height: 210px;
+        
+
+        width: 1000px;
+
+        background-color: white;
+        background-origin: content-box;
+
+        background-image: url(/B11A1--assignment-1/assets/quote-bg.png);
+       background-position: top-left
+       ;
+        
+
+       background-repeat: no-repeat;
+
+        border-radius: 10px;
+
+        border: none;
+
+        
+    
+        padding: 20px;
+
+        margin: auto;
+    }
+
+    .lose{
+
+        margin-top: 70px;
+    }
+
+    .cmnt{
+
+
+        width: 1280px;
+
+        height: 409px;
+    }
+
+    .cmnt h1{
+
+        margin-left:160px
+    }
+    table {
+        width: 1030px;
+        margin-left:160px;
+        border-collapse: collapse;
+        background-color: #ffffff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        overflow: hidden;
+        
+    font-family: "Kanit", serif;
+   
+    font-style: normal;
+  
+    
+    }
+    thead {
+        background-color: #c6e4d6;
+        color: rgb(0, 0, 0);
+       width: 1216px;
+       height: 72px;
+       
+    }
+
+    
+    th, td {
+        padding: 12px 15px;
+        text-align: center;
+    }
+    tbody tr {
+        background-color: #ffffff;
+        width: 1216px;
+        height: 72px;
+        border: 1px solid #c0c0c0;
+
+        font-weight: 450;
+    }
+    tbody tr button{
+
+font-weight: 600;
+        width: 150px;
+
+        height: 30px;
+
+        border: 1px solid #c0c0c0;
+        background-color: #c6e4d6;
+    }
+ 
+    
+    tbody td {
+        color: #333;
+        border: 1px solid #c0c0c0;
+    }
+    th {
+        font-size: 1.2em;
+        text-transform: uppercase;
+    }
+.news{
+
+    margin-left: 160px;
+    width: 1030px;
+}
+
+.news1{
+
+    width: 1030px;
+
+    height: 346px;
+
+    background-color: white;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    
+    padding: 15px;
+}
+.leftimg  img{
+
+    border-radius: 20px;
+
+    margin: 20px;
+    height: 310px;
+
+    padding-top: 10px;
+}
+
+.righttxt button{
+
+
+    background-color: #006A50;
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    width: 90px;
+    height: 30px;
+}
+
+.righttxt{
+
+    padding-top: 0 px;
+}
+
+.donate{
+
+    margin-left: 160px;
+
+    width: 1030px;
+
+    text-align: center;
+
+    height: auto;
+}
+
+.donate input{
+margin-top: 30px;
+    width: 700px;
+    height: 44px;
+
+    border: none;
+}
+.donate input[type="text"] {
+    width: 700px;
+    height: 50px;
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    outline: none;
+}
+
+.donate input::placeholder{
+
+    text-align: center;
+}
+
+.donate-btn button { 
+
+
+    height: 128px;
+    width: 222px;
+
+    font-weight: 600;
+
+    font-size: 40px;
+
+    gap: 20px;
+    outline: none;
+    border-radius: 10px;
+
+    border: none;
+
+    background-color: white;
+  
+
+}
+
+.donate-btn button:hover{
+
+    background-color: #c6e4d6;
+}
+
+.donate-btn{
+    display: flex;
+
+    flex-direction: row;
+
+   gap: 20px;
+   justify-content: center;
+}
+.newsletter{
+padding-top: 50px;
+    margin-left: 160px;
+margin-top: 30px;
+    width: 1030px;
+
+    height: 300px;
+
+    align-items: center;
+
+
+    text-align: center;
+    background-color: #c6e4d6;
+
+    width: 1030px;
+
+}
+
+.newsletter input{
+
+    margin-top: 30px;
+    width: 
+    400px;
+    height: 44px;
+
+    border: none;
+border-radius: 8px;
+
+border-top-right-radius: 0px;
+
+border-bottom-right-radius: 0px;
+}
+
+.newsletter input ::placeholder{
+
+    padding-left: 20px;
+}
+
+.newsletter input[type="text"] {
+    width: 300px;
+    height: 50px;
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid #ddd;
+  
+   
+    outline: none;
+
+}
+
+.newsletter button{
+
+    width: 100px;
+    height: 55px;
+    font-size: 16px;
+
+    font-weight: 500;
+    text-align: center;
+    border: 2px solid #ddd;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    outline: none;
+margin-left: -13px;
+    background-color: #006A50;
+    color: white;
+}
+
+.newsletter button:hover{
+
+
+    background-color: #29463e;
+}
+
+.footer{
+
+width: 100%;
+
+background-color: #ffffff;
+
+height: 100px;
+
+border-radius: 10px;
+
+border: none;
+
+text-align: center;
+
+margin-top: 40px;
+}
+.footer h1{
+
+    text-align: center;
+}
+.footer i{
+padding: 5PX;
+    text-align: center;
+}
